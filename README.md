@@ -18,4 +18,18 @@ Simple steps to host website on AWS.
  create website 
  service httpd start
 ```
-7. access website from browser using ec2 public ip or DNS
+6. access website from browser using ec2 public ip or DNS
+
+
+# Final Result: 
+
+![image](https://github.com/RitikPyCode/Step-to-host-website-aws/assets/69500530/c998d67b-9c34-4aba-984d-4e0c3ee88b32)
+
+
+# Thanks!!
+
+## Let's Connect on LinkedIn: 
+```
+https://www.linkedin.com/in/ritikktiwari/
+```
+### Till then keep learning, and keep exploring !! 
